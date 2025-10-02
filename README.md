@@ -1,2 +1,2 @@
 # friendly-octo
-Nicole / Rav's practicum repository
+Nicole / Rav's practicum repository. NICOLE'S EDIT!
